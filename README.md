@@ -24,7 +24,18 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       [ex b.pdf](https://github.com/VerginJenifer/EXNO-4-DS/files/15377305/ex.b.pdf)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/b5c4d6ad-e6c8-4fcd-97ef-1a8a0a0abef4)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/b518350c-3594-4dc6-88a6-f0d915bc5bb6)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/29949502-b1ea-4298-869a-4a84139cd00d)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/4c3c5c6b-968f-4d63-adc2-b65f55e6c637)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/6d7b8bf4-c6b7-48bd-a62f-61bab7e83768)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/a6ced413-37bf-4554-8782-7ae861bde758)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/26490d79-edc0-499e-9a37-026db5312506)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/0e97bbf2-e3be-4e39-a1e0-037df08c4ad7)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/9dd77dac-33c1-48b6-9050-fe2ca7c7ba84)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/4f6de77d-2ac8-4124-91e6-7cbea90affa3)
+![image](https://github.com/VerginJenifer/EXNO-4-DS/assets/136251012/df784700-3f25-4327-bb74-3e8a6ae79b0e)
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus, Feature Scaling and Feature Selection process is executed successfully.
+
